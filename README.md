@@ -1,4 +1,4 @@
-# Proyectos-principiantes
+# Script Basico
 Soy nuevo en lo que es el hacking voy a dejar un script hecho con los conocimiento que tengo....
 
 Este Script puede Actualizar el sistema Os dependiendo que distribución tengas.
